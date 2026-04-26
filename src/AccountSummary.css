@@ -26,4 +26,74 @@
     margin-top: 70px;
     margin-left:10px;
     
+    
+}
+.paymentButton{
+    width:230px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: white;
+    background-color: blue;
+    border-radius:5px ;
+}
+
+.autopay{
+    margin-left: 70px;
+    color: blue;
+    margin-top: 20px;
+}
+
+.largeContainer{
+    display: flex;
+}
+
+.minimumDue{
+    margin-left: 50px;
+    margin-top:20px;
+    font-size: 16px;
+}
+
+.payToAvoidFee{
+    margin-left: 50px;
+    font-size:12px;
+
+}
+
+hr{
+    margin-left: 50px;
+    width:500px
+}
+
+.statementBalance{
+    margin-left: 50px;
+    margin-top:2px;
+    font-size: 16px;
+}
+
+.payToAvoidInterest{
+    margin-left: 50px;
+    font-size:12px;
+
+}
+
+.pendingTransactions{
+    margin-left: 50px;
+}
+.paymentDueDate{
+    margin-left: 50px;
+
+}
+.yourPaymentDeadline{
+    margin-left: 50px;
+    font-size: 16px;
+    font-style: italic;
+}
+.minimumDueContainer{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    
+}
+.minimumDueValue{
+    margin-top: 25px;
 }
