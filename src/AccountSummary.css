@@ -1,0 +1,29 @@
+.currentBalance_Container{
+    display: flex;
+    justify-content: space-between;
+    width: 240px;
+    
+    
+}
+.currentBalanceHeading{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.whatsThisLink{
+    margin-top: 24px;
+    font-size: 16px;
+    color: blue;
+    
+}
+.currentBalanceValue{
+    font-size:26px;
+    margin-top: 7px;
+
+}
+
+.paymentButtonsContainer{
+    margin-top: 70px;
+    margin-left:10px;
+    
+}

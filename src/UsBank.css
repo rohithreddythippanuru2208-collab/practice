@@ -1,0 +1,37 @@
+.toplogo{
+   margin-left: 10px; 
+}
+.usbflexbox {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: 10px;
+}
+.bottomlogo{
+    display: flex;
+    margin-left: 10px;
+
+}
+.bottomtext{
+margin-left: 10px;
+}
+.buttonflex{
+    display: flex;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 320px;
+    cursor:pointer;
+    boarder-radius : 8px;
+    
+    width:1000px;
+
+}
+.buttonflex button {
+    color: rgb(255, 255, 255);
+    background-color :blue;
+    cursor:pointer;
+    border-radius: 5px;
+}
