@@ -97,3 +97,20 @@ hr{
 .minimumDueValue{
     margin-top: 25px;
 }
+.statementBalanceContainer{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.pendingTransactionscontainer{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+
+}
+.paymentDueDateContainer{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+
+}

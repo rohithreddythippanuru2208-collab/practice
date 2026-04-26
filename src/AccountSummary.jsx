@@ -30,12 +30,25 @@ export default function AccountSummary() {
                     </div>
                     </div>
                     <hr></hr>
+                    <div className='statementBalanceContainer'>
+                    <div>
                     <div className='statementBalance'>Statement balance</div>
                     <div  className='payToAvoidInterest'>pay to avoid interest on new purchases</div>
+                    </div>
+                    <div>
+                        $741.64
+                    </div>
+                    </div>
                     <hr></hr>
+                    <div className='pendingTransactionscontainer'>
                     <div className='pendingTransactions'>Pending transactions</div>
+                    <div> $112.53</div>
+                    </div>
                     <hr></hr>
+                    <div className='paymentDueDateContainer'>
                     <div className='paymentDueDate'>Payment due  date</div>
+                    <div> 3rd of every month</div>
+                    </div>
                     <hr></hr>
                     <div className='yourPaymentDeadline'> Your payment is due May 3.</div>
 
